@@ -26,7 +26,8 @@
   ],
   "main": "lib/flexpmd",
   "engines": {
-    "node": ">= 0.8.0"
+    "node": ">= 0.8.0",
+    "npm" : ">= 1.2.10"
   },
   "scripts": {
     "prepublish": "node prepublish.js",
