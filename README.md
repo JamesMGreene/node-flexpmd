@@ -28,8 +28,10 @@ Lint and test your code using [Grunt](http://gruntjs.com/).
 
 
 ## Release History
-- 1.3.0-0: Published to NPM on 2014-02-23.
-    - Initial release. Version number aligned with FlexPMD version number.
+ - 1.3.0-1: Published to NPM on 2014-03-05.
+     - Added an `.npmignore` file as the defaults taken from `.gitignore` were bad.
+ - 1.3.0-0: Published to NPM on 2014-02-23.
+     - Initial release. Version number aligned with FlexPMD version number.
 
 
 ## License
